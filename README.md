@@ -29,8 +29,6 @@ programação web, demonstrando minha paixão pela área.
 <br>
 <br>
 
-
-
 ### 🤖 Estatísticas 
 
 <img
