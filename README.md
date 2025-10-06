@@ -1,4 +1,4 @@
-# 👨🏿‍💻 Olá, seja Bem-vindo(a) ao meu GitHub..... Desenvolvedor Front - End
+# 👨🏿‍💻 Olá, seja Bem-vindo(a) ao meu GitHub..... Desenvolvedor Full stack
 
 
 
