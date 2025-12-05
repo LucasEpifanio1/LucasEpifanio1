@@ -29,6 +29,8 @@ programação web, demonstrando minha paixão pela área.
 
 ### 🤖 Estatísticas 
 
+### 🤖 Estatísticas 
+
 <img
   alt="GitHub Stats"
   height="200px"
@@ -40,4 +42,5 @@ programação web, demonstrando minha paixão pela área.
   height="200px"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEpifanio1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
 />
+
 
